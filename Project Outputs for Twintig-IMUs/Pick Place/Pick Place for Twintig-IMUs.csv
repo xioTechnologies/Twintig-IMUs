@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-IMUs\Project Outputs for Twintig-IMUs\Pick Place\Pick Place for Twintig-IMUs.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/12/24
+Time:       15:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"U1","20.0000mm","5.0000mm","TopLayer","0","SK6805-EC15"
+"J1","2.0000mm","5.0000mm","TopLayer","90","Molex 502426-2030"
+"C3","8.0001mm","11.0000mm","TopLayer","0","1uF"
+"C2","22.0000mm","5.0000mm","TopLayer","90","1uF"
+"C1","17.0000mm","11.0000mm","TopLayer","0","1uF"
