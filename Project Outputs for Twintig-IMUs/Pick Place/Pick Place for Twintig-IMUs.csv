@@ -4,15 +4,33 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-IMUs\Project Outputs for Twint
 ========================================================================================================================
 File Design Information:
 
-Date:       17/12/24
-Time:       15:06
-Revision:   Not in VersionControl
+Date:       02/02/25
+Time:       21:20
+Revision:   b221f86be0b26bbd50ea301d92eeeec5b33ddd9b
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
-"U1","20.0000mm","5.0000mm","TopLayer","0","SK6805-EC15"
-"J1","2.0000mm","5.0000mm","TopLayer","90","Molex 502426-2030"
-"C3","8.0001mm","11.0000mm","TopLayer","0","1uF"
-"C2","22.0000mm","5.0000mm","TopLayer","90","1uF"
-"C1","17.0000mm","11.0000mm","TopLayer","0","1uF"
+"U3_IMU4","244.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
+"U3_IMU3","204.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
+"U3_IMU2","144.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
+"U2_IMU4","247.0000mm","4.0000mm","TopLayer","180","ICM-42670-P"
+"U2_IMU3","207.0000mm","4.0000mm","TopLayer","180","ICM-42670-P"
+"U2_IMU2","147.0000mm","4.0000mm","TopLayer","180","ICM-42670-P"
+"C4_IMU4","245.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C4_IMU3","205.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C4_IMU2","145.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C3_IMU4","244.2500mm","5.2750mm","TopLayer","90","100nF"
+"C3_IMU3","204.2500mm","5.2750mm","TopLayer","90","100nF"
+"C3_IMU2","144.2500mm","5.2750mm","TopLayer","90","100nF"
+"C2_IMU4","243.5000mm","5.2500mm","TopLayer","270","1uF"
+"C2_IMU3","203.5000mm","5.2500mm","TopLayer","270","1uF"
+"C2_IMU2","143.5000mm","5.2500mm","TopLayer","270","1uF"
+"U2_IMU1","67.0000mm","4.0000mm","TopLayer","180","ICM-42670-P"
+"C4_IMU1","65.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C3_IMU1","64.2500mm","5.2750mm","TopLayer","90","100nF"
+"U3_IMU1","64.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
+"C2_IMU1","63.5000mm","5.2500mm","TopLayer","270","1uF"
+"U1","5.5000mm","2.5000mm","TopLayer","270","24AA32AT-I/MC"
+"J1","2.0000mm","4.0000mm","TopLayer","270","Molex 502426-2030"
+"C1","7.0000mm","1.7250mm","TopLayer","270","100nF"
