@@ -4,9 +4,9 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-IMUs\Project Outputs for Twint
 ========================================================================================================================
 File Design Information:
 
-Date:       02/02/25
-Time:       21:24
-Revision:   cbc1dfc7656c4adb54c67135fbeac1a835015636
+Date:       03/02/25
+Time:       08:54
+Revision:   bd50b0582c28260de690cd2689fa5a9fc8fb5456
 Variant:    No variations
 Units used: mm
 
@@ -31,6 +31,6 @@ Units used: mm
 "C3_IMU1","64.2500mm","5.2750mm","TopLayer","90","100nF"
 "U3_IMU1","64.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "C2_IMU1","63.5000mm","5.2500mm","TopLayer","270","1uF"
-"U1","5.5000mm","2.5000mm","TopLayer","270","24AA32AT-I/MC"
+"U1","5.5000mm","4.0000mm","TopLayer","90","24AA32AT-I/MC"
 "J1","2.0000mm","4.0000mm","TopLayer","270","Molex 502426-2030"
-"C1","7.0000mm","1.7250mm","TopLayer","270","100nF"
+"C1","5.0000mm","6.2500mm","TopLayer","180","100nF"
