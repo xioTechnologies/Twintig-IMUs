@@ -4,33 +4,35 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-IMUs\Project Outputs for Twint
 ========================================================================================================================
 File Design Information:
 
-Date:       23/04/25
-Time:       17:08
-Revision:   9811f559e30eb57bb975c9169da205d24284b1b2
+Date:       19/05/25
+Time:       10:27
+Revision:   0041cfad035aee358ca4cb7d6108db8210b269e5
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"R1","5.0000mm","1.7500mm","TopLayer","0","33R"
+"C1","5.0000mm","1.0000mm","TopLayer","0","220pF"
 "U3_CH4","244.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "U3_CH3","204.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "U3_CH2","144.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "U2_CH4","247.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
 "U2_CH3","207.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
 "U2_CH2","147.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
-"C4_CH4","245.0000mm","5.2750mm","TopLayer","90","2.2uF"
-"C4_CH3","205.0000mm","5.2750mm","TopLayer","90","2.2uF"
-"C4_CH2","145.0000mm","5.2750mm","TopLayer","90","2.2uF"
-"C3_CH4","244.2500mm","5.2750mm","TopLayer","90","100nF"
-"C3_CH3","204.2500mm","5.2750mm","TopLayer","90","100nF"
-"C3_CH2","144.2500mm","5.2750mm","TopLayer","90","100nF"
-"C2_CH4","243.5000mm","5.2500mm","TopLayer","270","1uF"
-"C2_CH3","203.5000mm","5.2500mm","TopLayer","270","1uF"
-"C2_CH2","143.5000mm","5.2500mm","TopLayer","270","1uF"
+"C5_CH4","245.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C5_CH3","205.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C5_CH2","145.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C4_CH4","244.2500mm","5.2750mm","TopLayer","90","100nF"
+"C4_CH3","204.2500mm","5.2750mm","TopLayer","90","100nF"
+"C4_CH2","144.2500mm","5.2750mm","TopLayer","90","100nF"
+"C3_CH4","243.5000mm","5.2500mm","TopLayer","270","1uF"
+"C3_CH3","203.5000mm","5.2500mm","TopLayer","270","1uF"
+"C3_CH2","143.5000mm","5.2500mm","TopLayer","270","1uF"
 "U2_CH1","67.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
-"C4_CH1","65.0000mm","5.2750mm","TopLayer","90","2.2uF"
-"C3_CH1","64.2500mm","5.2750mm","TopLayer","90","100nF"
+"C5_CH1","65.0000mm","5.2750mm","TopLayer","90","2.2uF"
+"C4_CH1","64.2500mm","5.2750mm","TopLayer","90","100nF"
 "U3_CH1","64.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
-"C2_CH1","63.5000mm","5.2500mm","TopLayer","270","1uF"
+"C3_CH1","63.5000mm","5.2500mm","TopLayer","270","1uF"
 "U1","5.5000mm","4.0000mm","TopLayer","90","24AA32AT-I/MC"
 "J1","2.0000mm","4.0000mm","TopLayer","270","Molex 502426-2030"
-"C1","5.0000mm","6.2500mm","TopLayer","180","100nF"
+"C2","5.0000mm","6.2500mm","TopLayer","180","100nF"
