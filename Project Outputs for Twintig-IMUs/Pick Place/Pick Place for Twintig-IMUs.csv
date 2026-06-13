@@ -4,9 +4,9 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-IMUs\Project Outputs for Twint
 ========================================================================================================================
 File Design Information:
 
-Date:       16/03/26
-Time:       16:28
-Revision:   7a173c1e6d696c095638b30cf9533ad3cca1c432
+Date:       13/06/26
+Time:       10:17
+Revision:   0e622dd83ef3d6721e9774d7588b32418c872950
 Variant:    No variations
 Units used: mm
 
@@ -16,9 +16,9 @@ Units used: mm
 "U3_CH4","294.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "U3_CH3","254.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
 "U3_CH2","194.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
-"U2_CH4","297.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
-"U2_CH3","257.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
-"U2_CH2","197.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
+"U2_CH4","297.0000mm","4.0000mm","TopLayer","180","ICM-45686"
+"U2_CH3","257.0000mm","4.0000mm","TopLayer","180","ICM-45686"
+"U2_CH2","197.0000mm","4.0000mm","TopLayer","180","ICM-45686"
 "C4_CH4","295.0000mm","5.2750mm","TopLayer","90","2.2uF"
 "C4_CH3","255.0000mm","5.2750mm","TopLayer","90","2.2uF"
 "C4_CH2","195.0000mm","5.2750mm","TopLayer","90","2.2uF"
@@ -28,7 +28,7 @@ Units used: mm
 "C2_CH4","293.5000mm","5.2500mm","TopLayer","270","1uF"
 "C2_CH3","253.5000mm","5.2500mm","TopLayer","270","1uF"
 "C2_CH2","193.5000mm","5.2500mm","TopLayer","270","1uF"
-"U2_CH1","117.0000mm","4.0000mm","TopLayer","180","ICM-42688-P"
+"U2_CH1","117.0000mm","4.0000mm","TopLayer","180","ICM-45686"
 "C4_CH1","115.0000mm","5.2750mm","TopLayer","90","2.2uF"
 "C3_CH1","114.2500mm","5.2750mm","TopLayer","90","100nF"
 "U3_CH1","114.2500mm","3.5000mm","TopLayer","270","SK6805-EC15"
